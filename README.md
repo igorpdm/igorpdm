@@ -8,6 +8,6 @@
 - 👩‍💻 I am currently a Computer Engineering student at CEFET-MG
 - ☕ Minha principal linguagem de programação é Java, mas também sei programar em Python e C
 
-![Igor Pedrosa GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpdm&show_icons=true&theme=dracula)
+![Igor Pedrosa GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpdm&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpdm&layout=compact&theme=dracula)](https://github.com/igorpdm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpdm&layout=compact&theme=cobalt)](https://github.com/igorpdm/github-readme-stats)
