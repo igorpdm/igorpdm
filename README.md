@@ -6,7 +6,7 @@
 ### **Hi! My name is Igor Pedrosa**
 
 - 👩‍💻 I am currently a Computer Engineering student at CEFET-MG
-- ☕ Minha principal linguagem de programação é Java, mas também sei programar em Python e C
+- ☕ My main programming language is Java, but I can also program in Python and C
 
 ![Igor Pedrosa GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpdm&show_icons=true&theme=radical)
 
