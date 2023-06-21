@@ -16,3 +16,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+
+<!-- Inclua essa seção no seu README.md -->
+### Estatísticas de Linguagens
+
+[![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpdm&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
