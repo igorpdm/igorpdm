@@ -25,6 +25,7 @@
 <!-- Inclua essa seção no seu README.md -->
 ### Estatísticas de Linguagens
 
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpdm)
+[![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpdm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
