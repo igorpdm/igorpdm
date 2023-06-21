@@ -17,15 +17,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 
-### Estatísticas do GitHub
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=igorpdm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
-<!-- Inclua essa seção no seu README.md -->
-### Estatísticas de Linguagens
-
-[![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpdm)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/igorpdm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorpdm&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/igorpdm/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorpdm&repo=convoychat" />
+</a>
 
 
 
