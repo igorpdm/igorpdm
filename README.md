@@ -16,13 +16,3 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-
-<a href="https://github.com/igorpdm/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorpdm&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/igorpdm/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=igorpdm&repo=convoychat" />
-</a>
-
-
-
