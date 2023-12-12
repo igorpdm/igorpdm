@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!-- Inclua essa seção no seu README.md -->
 ### Estatísticas de Linguagens
