@@ -1,22 +1,82 @@
-### Olá! Eu sou Igor Pedrosa
+# 👋 Olá! Eu sou Igor Pedrosa
 
-- 👩‍💻 Atualmente sou estudante de Engenharia de Computação pelo CEFET-MG.
+- 👨‍💻 Atualmente sou estudante de Engenharia de Computação pelo CEFET-MG.
 
-### Hi! My name is Igor Pedrosa
+# 👋 Hi! My name is Igor Pedrosa
 
-- 👩‍💻 Currently, I am a Computer Engineering student at CEFET-MG.
+- 👨‍💻 Currently, I am a Computer Engineering student at CEFET-MG.
 
-### Linguagens e Ferramentas
+## 🌟 Linguagens e Ferramentas | Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
-<!-- Inclua essa seção no seu README.md -->
-### Estatísticas de Linguagens
+## 🛠️ IDEs
 
-[![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpdm)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+      <br>PyCharm
+      </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="48" height="48" alt="Visual Studio" />
+      <br>Visual Studio
+    </td>
+  </tr>
+</table>
 
+## 🌐 Contato | Contact
+
+- Email: [igorpedrosademelo18@gmail.com](mailto:igorpedrosademelo18@gmail.com)
