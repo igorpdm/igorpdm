@@ -80,7 +80,3 @@
     </td>
   </tr>
 </table>
-
-## 🌐 Contato | Contact
-
-- Email: [igorpedrosademelo18@gmail.com](mailto:igorpedrosademelo18@gmail.com)
